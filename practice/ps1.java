@@ -162,4 +162,9 @@ public class ps1 {
     //     }
     //     System.out.println("No");
     // }
+
+    // Exercise 6. You are at a party attended by n people (not including yourself), and you suspect that there might be a celebrity present. A celebrity is someone known by everyone, but who does not know anyone else present. Your task is to work out if there is a celebrity present, and if so, which of the n people present is a celebrity. To do so, you can ask a person X if they know another person Y (where you choose X and Y when asking the question).
+    // (a) Show that there can be at most one celebrity. In other words, if a celebrity exists, then the celebrity is unique.
+    // (b) Use the previous part to show that your task can always be accomplished by asking no more than 3n − 3 such questions.
+    // (c) Show that your task can always be accomplished by asking no more than 3n − ⌊log2 n⌋ − 3 such questions.
 }
